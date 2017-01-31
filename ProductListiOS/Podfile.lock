@@ -1,0 +1,22 @@
+PODS:
+  - IGListKit (2.1.0):
+    - IGListKit/Default (= 2.1.0)
+  - IGListKit/Default (2.1.0):
+    - IGListKit/Diffing
+  - IGListKit/Diffing (2.1.0)
+  - Yoga (1.0.2)
+  - YogaKit (1.0.2):
+    - Yoga (~> 1.0)
+
+DEPENDENCIES:
+  - IGListKit (= 2.1.0)
+  - YogaKit (= 1.0.2)
+
+SPEC CHECKSUMS:
+  IGListKit: b826c68ef7a4ae1626c09d4d3e1ea7a169e6c36e
+  Yoga: ef42f88b9bcbd7daf7267c0f19d8636ce3a50618
+  YogaKit: e84de6b290519161b2964c5fb03663d8d76f99fa
+
+PODFILE CHECKSUM: fae1de12696639545a053646a8ec442163bfc7b6
+
+COCOAPODS: 1.2.0

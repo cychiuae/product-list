@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>IGListKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-ProductListiOS.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Yoga.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>YogaKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1857378DEC9305535EA621B83F22DD35</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5871166FFBCA96DEB96FFB1D141C9AB8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DD2E79243BC8841E0064CEE8C1B24E64</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F0E0BB95BE493C8F242B920DA813622B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
